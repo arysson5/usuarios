@@ -21,7 +21,7 @@ $usuarios= getUsuarios();
         <thead class="thead-dark">
 
         <tr>
-            <th>ID</th>
+            <th>identificador</th>
             <th>Nome</th>
             <th>Email</th>
             <th>Ações</th>
