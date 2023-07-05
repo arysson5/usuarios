@@ -20,12 +20,6 @@ $usuarios= getUsuarios();
     <table class="table table-bordered">
         <thead class="thead-dark">
 
-        <tr>
-            <th>identificador</th>
-            <th>Nome</th>
-            <th>Email</th>
-            <th>Ações</th>
-        </tr>
         </thead>
         <tbody>
             <?php
